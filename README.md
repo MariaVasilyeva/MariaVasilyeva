@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Maria Vasilyeva  
+Product Analyst | Data Enthusiast | UX Researcher turned Data Analyst  
 
-<!--
-**MariaVasilyeva/MariaVasilyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About me**  
+I’m transitioning from UX research to product analytics, currently studying Big Data Analytics and working on projects involving SQL, Python, and product metrics.  
+Passionate about connecting user behavior insights with data-driven decision making.
 
-Here are some ideas to get you started:
+🚀 **Projects**  
+- [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics  
+- [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Tech Stack**  
+- Python (pandas, numpy, matplotlib, seaborn, scipy)  
+- SQL (PostgreSQL, ClickHouse, DBeaver, dbt)  
+- Visualization: Tableau, DataLens  
+- Tools: Airflow, Git, Google Sheets (QUERY, ARRAYFORMULA)  
+
+📍 Novi Sad, Serbia  
+🌐 [LinkedIn](https://linkedin.com/in/mariia-vasilyeva) | [Telegram](https://t.me/MNVasilyeva)
