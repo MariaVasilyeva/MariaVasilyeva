@@ -2,7 +2,7 @@
 Product Analyst | Data Enthusiast | UX Researcher turned Data Analyst  
 
 🎯 **About me**  
-I’m transitioning from UX research to product analytics, currently studying Big Data Analytics and working on projects involving SQL, Python, and product metrics.  
+I’m transitioning from UX research to product analytics, currently studying master's program Big Data Analytics in HSE and working on projects involving SQL, Python, and product metrics.  
 Curious about connecting user behavior insights with data-driven decisions.
 
 🚀 **Projects**  
@@ -11,7 +11,7 @@ Curious about connecting user behavior insights with data-driven decisions.
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
-- SQL (PostgreSQL, ClickHouse, DBeaver, dbt)  
+- SQL (PostgreSQL, DBeaver, dbt)  
 - Visualization: Tableau, DataLens  
 - Tools: Airflow, Git, Google Sheets (QUERY, ARRAYFORMULA)  
 
