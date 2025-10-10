@@ -10,7 +10,7 @@ Curious about connecting user behavior insights with data-driven decisions.
 - [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes, Python
 - [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R): R
 - [Network analysis of political views and social ties among students.](https://github.com/MariaVasilyeva/Network-Analysis-R): R
-- ANOVA,multiple regression (https://github.com/MariaVasilyeva/ANOVA-multiple-regression-R-SAS): R, SAS
+- [ANOVA,multiple regression](https://github.com/MariaVasilyeva/ANOVA-multiple-regression-R-SAS): R, SAS
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
