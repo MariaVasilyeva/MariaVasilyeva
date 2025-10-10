@@ -11,7 +11,8 @@ Curious about connecting user behavior insights with data-driven decisions.
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
-- SQL (PostgreSQL, DBeaver, dbt)  
+- SQL (PostgreSQL, DBeaver, dbt)
+- R (Statistics, Exploratory Analysis, Network Analysis)  
 - Visualization: Tableau, DataLens  
 - Tools: Airflow, Git, Google Sheets (QUERY, ARRAYFORMULA)  
 
