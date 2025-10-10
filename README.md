@@ -7,7 +7,9 @@ Curious about connecting user behavior insights with data-driven decisions.
 
 🚀 **Projects**  
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics  
-- [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes  
+- [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes
+- R: [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R)
+- R
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
