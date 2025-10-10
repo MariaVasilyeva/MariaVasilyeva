@@ -8,15 +8,18 @@ Curious about connecting user behavior insights with data-driven decisions.
 🚀 **Projects**  
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics, Python
 - [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes, Python
-- [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R), R
-- [Network analysis of political views and social ties among students.](https://github.com/MariaVasilyeva/Network-Analysis-R), R
+- [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R): R
+- [Network analysis of political views and social ties among students.](https://github.com/MariaVasilyeva/Network-Analysis-R): R
+- ANOVA,multiple regression (https://github.com/MariaVasilyeva/ANOVA-multiple-regression-R-SAS): R, SAS
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
 - SQL (PostgreSQL, DBeaver, dbt)
-- R (Statistics, Exploratory Analysis, Network Analysis)  
 - Visualization: Tableau, DataLens  
-- Tools: Airflow, Git, Google Sheets (QUERY, ARRAYFORMULA)  
+- Tools: Airflow, Git, Google Sheets (QUERY, ARRAYFORMULA) 
+- R (Statistics, Exploratory Analysis, Network Analysis)
+- SAS
+ 
 
 📍 Novi Sad, Serbia  
 🌐 [LinkedIn](https://linkedin.com/in/mariia-vasilyeva) | [Telegram](https://t.me/MNVasilyeva)
