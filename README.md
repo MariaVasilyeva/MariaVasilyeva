@@ -9,9 +9,9 @@ Curious about connecting user behavior insights with data-driven decisions.
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics, Python
 - [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes, Python
 - [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R): R
-- [Network analysis of political views and social ties among students.](https://github.com/MariaVasilyeva/Network-Analysis-R): R
+- [Network analysis of political views and social ties among students](https://github.com/MariaVasilyeva/Network-Analysis-R): R
 - [ANOVA,multiple regression](https://github.com/MariaVasilyeva/ANOVA-multiple-regression-R-SAS): R, SAS
-- [Дашборд, овервью удовлетворенности клиентов, маркетплейс](https://datalens.yandex/942vu0kugbrwu); Datalens
+- [Дашборд, овервью удовлетворенности клиентов, маркетплейс](https://datalens.yandex/942vu0kugbrwu): Datalens
 
 🧠 **Tech Stack**  
 - Python (pandas, numpy, matplotlib, seaborn, scipy)  
