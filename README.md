@@ -6,6 +6,7 @@ I’m transitioning from UX research to product analytics, currently studying ma
 Curious about connecting user behavior insights with data-driven decisions.
 
 🚀 **Projects**  
+- [AI-Emotion-Analysis](https://github.com/MariaVasilyeva/AI-Emotion-Analysis): AI Emotion Analysis in Educational AI Systems
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics, Python
 - [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes, Python
 - [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R): R
