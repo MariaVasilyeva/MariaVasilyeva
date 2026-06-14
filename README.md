@@ -13,6 +13,8 @@ My background in UX research helps me connect user behavior, product hypotheses,
 
 - [AI-Usage-Academic-Performance-Analysis](https://github.com/MariaVasilyeva/AI-Usage-Academic-Performance-Analysis): explored links between AI tool usage, study behavior, and academic outcomes using EDA and regression models.
 Python, pandas, regression analysis, visualization
+- [Car Price Prediction with Linear Regression](https://github.com/MariaVasilyeva/linear-regression-car-price-prediction): predicted used car prices with feature engineering, linear models, business metrics, and a Streamlit demo.
+Python, pandas, scikit-learn, regression, Streamlit
 - News Topic Classification — text classification project using Lenta.ru news data, feature extraction, baseline ML models, and classification metrics.
 Python, scikit-learn, NLP, CountVectorizer, Logistic Regression
 - Neural Network Regression Experiments — introductory experiments with neural networks for regression tasks.
