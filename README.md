@@ -5,8 +5,14 @@ Product Analyst | Data Enthusiast | UX Researcher turned Data Analyst
 I’m transitioning from UX research to product analytics, currently studying master's program Big Data Analytics in HSE and working on projects involving SQL, Python, and product metrics.  
 Curious about connecting user behavior insights with data-driven decisions.
 
-🚀 **Projects**  
-- [AI-Emotion-Analysis](https://github.com/MariaVasilyeva/AI-Emotion-Analysis): AI Emotion Analysis in Educational AI Systems, Python
+🚀 **Projects**
+
+**Data Science / ML projects**
+
+- [AI-Usage-Academic-Performance-Analysis](https://github.com/MariaVasilyeva/AI-Usage-Academic-Performance-Analysis): AI Usage and Academic Performance Analysis, Python
+- 
+
+**Product & Data Analytics projects**
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics, Python
 - [AB-test-analysis](https://github.com/MariaVasilyeva/AB-test-analysys): Statistical evaluation of experiment outcomes, Python
 - [Exploratory Analysis of Coursera dataset](https://github.com/MariaVasilyeva/Exploratory-analysis-R): R
