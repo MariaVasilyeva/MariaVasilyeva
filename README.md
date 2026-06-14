@@ -1,16 +1,22 @@
 # 👋 Hi, I'm Maria Vasilyeva  
-Product Analyst | Data Enthusiast | UX Researcher turned Data Analyst  
+Data / Product Analyst | Applied Data Science Learner | UX Researcher turned Data Analyst
 
 🎯 **About me**  
-I’m transitioning from UX research to product analytics, currently studying master's program Big Data Analytics in HSE and working on projects involving SQL, Python, and product metrics.  
-Curious about connecting user behavior insights with data-driven decisions.
+I’m transitioning from UX research into data analytics and applied data science.
+Currently, I’m studying in the Big Data Analytics master’s program at HSE and working on projects involving Python, SQL, statistics, machine learning basics, product metrics, and experiment analysis.
+
+My background in UX research helps me connect user behavior, product hypotheses, and quantitative data. I’m especially interested in projects at the intersection of product analytics, behavioral data, machine learning, and AI-powered solutions.
 
 🚀 **Projects**
 
 **Data Science / ML projects**
 
-- [AI-Usage-Academic-Performance-Analysis](https://github.com/MariaVasilyeva/AI-Usage-Academic-Performance-Analysis): AI Usage and Academic Performance Analysis, Python
-- 
+- [AI-Usage-Academic-Performance-Analysis](https://github.com/MariaVasilyeva/AI-Usage-Academic-Performance-Analysis): explored links between AI tool usage, study behavior, and academic outcomes using EDA and regression models.
+Python, pandas, regression analysis, visualization
+- News Topic Classification — text classification project using Lenta.ru news data, feature extraction, baseline ML models, and classification metrics.
+Python, scikit-learn, NLP, CountVectorizer, Logistic Regression
+- Neural Network Regression Experiments — introductory experiments with neural networks for regression tasks.
+Python, PyTorch, model evaluation
 
 **Product & Data Analytics projects**
 - [ProductMarketFit](https://github.com/MariaVasilyeva/ProductMarketFit): Exploring user segments and retention metrics, Python
